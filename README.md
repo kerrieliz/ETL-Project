@@ -1,4 +1,4 @@
-# ETL-Project
+# ETL Project
 Proposal
 
 Is there a positive correlation between video game sales and movie sales by genre from 2013 - 2018.
